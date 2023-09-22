@@ -1,0 +1,21 @@
+section {
+    border: 1px solid black;
+    width: 100%;
+    float: left;
+    margin-top:10px;
+  }
+
+  p {
+    margin:10px;
+    text-align: justify;
+  }
+  
+  .left {
+    float: left;
+    margin: 10px;
+  }
+  
+  .right {
+    float: right;
+    margin: 10px;
+  }
