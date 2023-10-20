@@ -1,0 +1,50 @@
+body {
+    padding: 10px;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: yellow
+}
+
+#divTexte1 {
+    color: white;
+    position: absolute;
+    bottom: 400px; left: 200px;
+    padding: 20px
+}
+
+.col1 {
+    color: white
+    border: 10px;
+    background-color: darkgoldenrod;
+}
+
+.col2 {
+    color: white
+    border: 10px;
+    background-color: yellow;
+}
+
+#divTable {
+    padding: 10px;
+}
+
+.divImg {
+    padding: 20px;
+}
+
+.divTexte2 {
+    color: white;
+    position: absolute;
+    bottom: 1px; left: 300px;
+}
+
+
+.divTexte3 {
+    color: white;
+    position: absolute;
+    margin-bottom: ;
+    left: 300px;
+}

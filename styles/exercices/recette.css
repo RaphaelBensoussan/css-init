@@ -1,1 +1,50 @@
 
+body {
+    background-color: #eee6d8;
+    border-radius: 100px;
+}
+
+p {
+    color: darkcyan;
+    font-size: 15px;
+    font-style: italic;
+    font-family: Arial;
+    text-decoration: underline;
+    line-height: 10px;
+    text-align: left;
+}
+
+ol {
+    color: #4a919e;
+    background-color: #ffbf66;
+    border-radius: 10px;
+    font-family: Arial;
+}
+
+ul {
+    color: #4a919e;
+    background-color: #ffbf66;
+    border-radius: 10px;
+    font-family: Arial;
+}
+
+h1 {
+    text-align:center;
+    font-size: 40px;
+    font-family: Arial;
+    text-decoration: underline;
+    font-style: italic;
+    background: linear-gradient(pink, yellow);
+    border-radius: 90px;
+    color: crimson;
+}
+
+h2 {
+    color: red;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #212E53;
+    font-style: italic;
+}

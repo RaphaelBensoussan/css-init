@@ -1,0 +1,20 @@
+   86  cd ..
+   87  cd raphb
+   88  cd Documents
+   89  cd BTS
+   90  cd bts
+   91  cd BTS
+   92  cd
+   93  cd
+   94  cd ..
+   95  cd OneDrive
+   96  cd raphb
+   97  cd OneDrive
+   98  cd Documents
+   99  cd BTS
+  100  git clone
+  101  git clone git@github.com:RaphaelBensoussan/css-init.git
+  102  history
+  103  cd
+  104  git status
+  105  git commit -m Update
